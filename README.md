@@ -4,13 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-![alt text]("./project_images/Screenshot_1.png")
-Movie List Page
-![alt text]("./project_images/Screenshot_2.png")
-Movie Details Page
-![alt text]("./project_images/Screenshot_3.png")
-Footer
-
 In the project directory, you can run:
 
 ### `npm start`
